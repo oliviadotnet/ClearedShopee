@@ -1,0 +1,6 @@
+! Import this into 'my filters' in ublock origin, if you're outside of Taiwan, swap out the link in the filter.
+
+shopee.tw##body:style(overflow: auto !important; position: static !important;)
+shopee.tw##div.col-xs-2-4.shopee-search-item-result__item:has(div[data-sqe="ad"])
+
+shopee.tw###HomePageCarouselBannerSection, #HomePageSkinnyBannerSection, #HomePageFloatingBannerSection, .GPydoR.wEy9oE, .vsog3L, .iaLI9b, .fxcSDO, .dNsobG, .RU8Pcc, .XOnodO, .DxsnpN.PpUisb, .pAoliC, .lPE5GK > div, a.RjbL6U:nth-of-type(-n+6), .shopee-header-section--simple.Lbi9dZ.shopee-header-section > .shopee-header-section__header, .shopee-header-section--simple.Lbi9dZ.shopee-header-section > .shopee-header-section__content, .shopee-header-section--simple.GKgNDC.shopee-header-section, .a11y-carousel-arrow--hint.a11y-carousel-arrow--prev.a11y-carousel-arrow
